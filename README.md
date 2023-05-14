@@ -6,7 +6,10 @@
 CUDA was throwing error so i started working with cpu and it takes very long time to execute 
 ![Screenshot 2023-05-09 003127](https://github.com/Vishal35679/Plant-Disease-Detectifier/assets/104795331/866669fa-e19e-4d98-b9eb-f9a57aba7b52)
 ![Screenshot 2023-05-09 150810](https://github.com/Vishal35679/Plant-Disease-Detectifier/assets/104795331/0142a900-2e2f-407c-959d-6c45f387f89f)
+
 I knew that cpu is not gonna complete the task so i have to use GPU
+
+
 
 **Plant.ipynb**
 Then i installed CUDA but still got the error that torch is not compiled with CUDA 
